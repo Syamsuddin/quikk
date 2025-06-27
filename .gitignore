@@ -1,0 +1,9 @@
+/public/uploads/
+/app/Config/config.php
+*.log
+*.zip
+*.bak
+vendor/
+node_modules/
+.env
+
